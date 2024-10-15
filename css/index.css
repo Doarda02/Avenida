@@ -1,0 +1,86 @@
+body{
+    margin-top: 0px;
+    background-color:aliceblue;
+
+}
+
+
+
+
+#logotipo{
+    height: 400px;
+  width: 900px;
+
+  margin-left: 50px;
+}
+
+header{
+
+    height: 500px;
+    margin-top: 190px;
+}
+
+.carrossel, #imagem1{
+    height: 2000px;
+    width: 100%; 
+}
+
+.carrossel2{
+    height: 400px;
+    width: 1500px; 
+    margin-top: 700px;
+    margin-left: 650px;
+display:flex;
+}
+
+.caixa{
+    display: flex;
+    gap: 1000px;
+   justify-content: center;
+   margin-top: 570px;
+   margin-right: 650px;
+}
+.poste ,.cpfl ,.materiais{
+    display: flex;
+}
+ 
+#caixa-energia , #cpfl , #casa{
+    height: 400px;
+    width: 400px;
+ 
+}
+h1{
+    font-size: 100px;
+}
+.mensagens{
+    display: flex;
+    gap: 900px;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.ok1 , .ok2 , .ok3 , .ok4{
+display: flex;
+}
+
+#ok1 , #ok2 , #ok3 , #ok4{
+    height: 120px;
+    width: 120px;
+}
+
+#textoh1{
+    margin-top: 550px;
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    
+}
+#textoh2{
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+    margin-top: 80px;
+color: rgb(83, 75, 77);
+   
+}
